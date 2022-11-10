@@ -1,5 +1,4 @@
-Готовый работы по курсу в репозитории: 
-## JAVA_Developer_Training (/JAVA_Developer_Training)
+ ## [*Готовый мои работы по курсу находяться тут:*]([https://ru.wikipedia.org/wiki/Java](https://github.com/Maxim-Wilhelm/JAVA_Developer_Training))
 
 # Домашние задания по курсу «Основы Java»
 
