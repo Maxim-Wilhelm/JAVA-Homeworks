@@ -1,4 +1,4 @@
- ## → [Готовые мои работы по курсу находяться ТУТ](https://github.com/Maxim-Wilhelm/JAVA_Developer_Training)
+ ### → [Готовые мои работы по курсу находяться ТУТ](https://github.com/Maxim-Wilhelm/JAVA_Developer_Training)
 
 # Домашние задания по курсу «Основы Java»
 
