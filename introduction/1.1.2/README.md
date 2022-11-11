@@ -1,5 +1,3 @@
-## → [Моя работа](https://github.com/Maxim-Wilhelm/JAVA_Developer_Training/blob/master/CalculateVariableDifference/src/main/java/Main.java)
-
 ## Задача 2. Вычисление разности переменных
 
 ### Описание
