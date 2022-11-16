@@ -1,6 +1,6 @@
  #### → [Готовые мои работы по курсу находяться ТУТ](https://github.com/Maxim-Wilhelm/JAVA_Developer_Training)
 
-# Домашние задания по курсу «Основы Java»
+## Домашние задания по курсу «Основы Java»
 
 ### [Словарь терминов Java](./java_glossary.md/)
 
